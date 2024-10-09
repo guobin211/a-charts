@@ -1,0 +1,5 @@
+{
+    "identifier": "mobile-capability",
+    "platforms": ["android", "iOS"],
+    "permissions": ["barcode-scanner:default"]
+}
